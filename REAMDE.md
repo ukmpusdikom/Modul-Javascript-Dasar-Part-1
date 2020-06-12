@@ -35,9 +35,3 @@
     </li>
   </ol>
 </div>
-
-<style>
-  ol li {
-    margin-top: 10px;
-  }
-</style>
